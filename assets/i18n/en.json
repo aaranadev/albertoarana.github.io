@@ -1,0 +1,96 @@
+{
+  "Home": "Home",
+  "About": "About",
+  "CV": "CV",
+  "Works": "Works",
+  "Contact": "Contact",
+  "build-by": "Site built by",
+  "page-title-home": "Web Development Technologies",
+  "page-description-home": "A web developer with thoughtful, honest and committed eager to learn and research purpose.",
+  "skill-set": "Skills",
+  "about-me-title": {
+    "who": "Who am I?",
+    "about": "About"
+  },
+  "about-me-description": {
+    "name-study": "My name is Alberto Arana, I am a young Computer Science by University of Seville (Spain) eager to learn and research. Currently my main goal is currently specialize in ",
+    "prof": "Web Full-Stack development",
+    "todo": "Within the web development, firstly I am more focused on the front-end (HTML5, CSS3, JS, Responsive Design) both in development and design. Otherwise, as a secondary objective I am learning and researching on Back-End (Node.js, MongoDB, Python).",
+    "hobby": "I am a nice, cheerful, friendly and self-initiative person. I love to research and keep abreast of technological developments. I like going out to have fun and play sports to stay in shape. Cybersecurity and mobile application development IT are several categories that I like to keep up given the great value and importance to the development and technological innovation.",
+    "job": "I am currently dedicated to the development of a research project in collaboration with the foundation ",
+    "buss": "Fidetia."
+  },
+  "contact-description": {
+    "thanks": "Thanks you for your visit",
+    "contact": "If you want to contact me, you can be made using the form below or by any of the following means.",
+    "contact2": "If you want to contact me, you can do it by email, aaranaboza[at]gmail.com, or by any of the following means."
+  },
+  "name": "Name",
+  "email": "Email",
+  "subject": "Subject",
+  "message": "Message",
+  "send": "Send",
+  "soon": "Soon",
+  "cv": {
+    "skills": {
+      "title": "Skills"
+    },
+    "jobs": {
+      "title": "Experience",
+      "jobs": {
+        "fidetiaArion": {
+          "position": "Professional research assistant",
+          "startDate": "Marth 2016",
+          "endDate": "Present",
+          "description": "I belong to the research group Fidetia, responsible for developing a web application for a project in collaboration with the company Arion."
+        },
+        "schneiderElectric": {
+          "position": "Web developer",
+          "startDate": "January 2016",
+          "endDate": "February 2016",
+          "description": "I belong to the Micro group responsible for developing and optimizing internal web applications Software department."
+        },
+        "azcatec": {
+          "position": "Computer Science",
+          "startDate": "December 2014",
+          "endDate": "Juny 2015",
+          "description": "As only member of the IT team, responsible for the development of a business ERP software and system maintenance, network and computer equipment."
+        }
+      }
+    },
+    "educations": {
+      "title": "Education",
+      "educations": {
+        "us": {
+          "university": "University of Seville",
+          "title": "Computer Engineering - Computer Technologies",
+          "startDate": "September 2011",
+          "endDate": "July 2015"
+        }
+      }
+    },
+    "courses": {
+      "title": "Cursos",
+      "courses": {
+        "itil": {
+          "bussines": "EXIN",
+          "title": "ITIL® Foundation Certificate in IT Service Management",
+          "date": "2014",
+          "duration": ""
+        },
+        "vemakel": {
+          "bussines": "Vemakel Learning SLU",
+          "title": "Design, optimization and web programming",
+          "date": "2014",
+          "duration": "390 hours"
+        },
+        "cocos": {
+          "bussines": "Seis Cocos Technical School",
+          "title": "Web design with HTML5 and CSS3",
+          "date": "2013",
+          "duration": "120 hours"
+        }
+      }
+    }
+  }
+}
