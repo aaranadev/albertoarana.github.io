@@ -1,0 +1,93 @@
+{
+  "data": [{
+    "bussines": "Fidetia",
+    "url": "http://www.fidetia.es",
+    "img": "fidetia-2.png",
+    "position": "works.fidetia.position",
+    "startDate": "works.fidetia.startDate",
+    "endDate": "works.fidetia.endDate",
+    "description": "works.fidetia.description",
+    "skills": [{
+      "name": "Angular 2",
+      "url": "https://angular.io"
+    }, {
+      "name": "TypeScript",
+      "url": "https://www.typescriptlang.org"
+    }, {
+      "name": "ESMACScript 6",
+      "url": "http://es6-features.org/#Constants"
+    }, {
+      "name": "Sass",
+      "url": "http://sass-lang.com/"
+    }, {
+      "name": "GulpJS",
+      "url": "http://gulpjs.com"
+    }, {
+      "name": "Bootstrap",
+      "url": "http://getbootstrap.com"
+    }, {
+      "name": "Bower",
+      "url": "https://bower.io/"
+    }, {
+      "name": "NodeJS",
+      "url": "https://nodejs.org/en/"
+    }, {
+      "name": "jQuery",
+      "url": "https://jquery.com/"
+    }, {
+      "name": "CSS3",
+      "url": "http://www.w3schools.com/css/default.asp"
+    }, {
+      "name": "HTML5",
+      "url": "http://www.w3schools.com/html/default.asp"
+    }]
+  }, {
+    "bussines": "Shneider Electric",
+    "url": "http://www.schneider-electric.com/ww/en/",
+    "img": "schneider-electric.png",
+    "position": "works.scheider.position",
+    "startDate": "works.scheider.startDate",
+    "endDate": "works.scheider.endDate",
+    "description": "works.scheider.description",
+    "skills": [{
+      "name": "PHP",
+      "url": ""
+    }, {
+      "name": "jQuery",
+      "url": "https://jquery.com/"
+    }, {
+      "name": "HTML5",
+      "url": "http://www.w3schools.com/html/default.asp"
+    }, {
+      "name": "CSS3",
+      "url": "http://www.w3schools.com/css/default.asp"
+    }, {
+      "name": "MySQL",
+      "url": "https://www.mysql.com/"
+    }]
+  }, {
+    "bussines": "Azcatec Tecnología e ingeniería industrial",
+    "url": "http://azcatec.com",
+    "img": "azcatec.png",
+    "position": "works.azcatec.position",
+    "startDate": "works.azcatec.startDate",
+    "endDate": "works.azcatec.endDate",
+    "description": "works.azcatec.description",
+    "skills": [{
+      "name": "PHP",
+      "url": ""
+    }, {
+      "name": "jQuery",
+      "url": "https://jquery.com/"
+    }, {
+      "name": "HTML5",
+      "url": "http://www.w3schools.com/html/default.asp"
+    }, {
+      "name": "CSS3",
+      "url": "http://www.w3schools.com/css/default.asp"
+    }, {
+      "name": "MySQL",
+      "url": "https://www.mysql.com/"
+    }]
+  }]
+}

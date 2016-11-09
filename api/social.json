@@ -1,0 +1,19 @@
+{
+  "data": [{
+    "name": "GitHub",
+    "url": "https://github.com/albertoarana",
+    "class": "fa-github"
+  }, {
+    "name": "Twitter",
+    "url": "https://twitter.com/aaranaboza",
+    "class": "fa-twitter"
+  }, {
+    "name": "LinkedIn",
+    "url": "https://es.linkedin.com/in/albertoarana/en",
+    "class": "fa-linkedin"
+  }, {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/aaranaboza",
+    "class": "fa-facebook"
+  }]
+}
